@@ -11,6 +11,7 @@ gem 'foundation-rails'
 gem 'dropbox-sdk'
 gem 'omniauth'
 gem 'figaro'
+gem 'dropbox-api'
 
 group :development, :test do
   gem 'byebug'
